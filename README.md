@@ -24,6 +24,7 @@ Hi, I'm Jonathan Keefe, a software developer with experience in Magento, WordPre
 
 ## Personal Interests & Activities
 - Enjoy working on personal coding projects, such as building websites, and learning new coding languages including MySQL, Python, and Node.js.
+- Learning scripting with Powershell and Bash
 - Currently learning about machine learning with my Raspberry Pi 4, further expanding my knowledge and skills.
 - Challenge myself daily to improve my coding abilities and become a better developer.
 - Keep up to date with the latest technological advancements and industry news to stay informed about software trends and commonly used development languages.
