@@ -12,7 +12,6 @@ Hi, I'm Jonathan Keefe, a software developer with experience in Magento, WordPre
 ## Websites
 
 - [Peated Wordpress](https://www.peated.co.uk)
-- [Hyped Holiday Wordpress](https://www.hypedholiday.com)
 - [Aston Berkeley Wordpress](https://www.astonberkeley.com/)
 - [BatchRecorder](https://batchrecorder.com/)
 - [LocationRecord](https://loactionrecorder.com/)
