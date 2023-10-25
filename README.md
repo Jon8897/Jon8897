@@ -12,9 +12,9 @@ Hi, I'm Jonathan Keefe, a software developer with experience in Magento, WordPre
 ## Websites
 
 - [Peated Wordpress](https://www.peated.co.uk)
-- [Aston Berkeley Wordpress](https://www.astonberkeley.com/)
-- [BatchRecorder](https://batchrecorder.com/)
-- [LocationRecord](https://loactionrecorder.com/)
+- [Aston Berkeley Wordpress](https://www.astonberkeley.com/) (NO LONGER WORKING ON BUT SET UP)
+- [BatchRecorder](https://batchrecorder.com/) (NO LONGER WORKING ON BUT SET UP)
+- [LocationRecord](https://loactionrecorder.com/) (NO LONGER WORKING ON BUT SET UP)
 
 ## Experience
 ### Junior Developer, Yoma, July 2021 - December 2022
