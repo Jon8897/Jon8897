@@ -3,14 +3,14 @@ I am a driven and adaptable IT professional passionate about software developmen
 My experience includes streamlining development pipelines, enhancing system security, and delivering impactful solutions that align with industry best practices. I thrive in dynamic environments where I can continue to grow my skills in software development, DevOps, scripting, and cybersecurity frameworks, while making meaningful contributions to innovative organisations. Passionate about solving real-world problems, I focus on leveraging technology to create secure, efficient, and user-friendly digital environments.
 
 ## Skills
-- Programming Languages: Proficient in CSS, HTML, Python, PHP, and JavaScript. Currently learning C/C#, C++, and MySQL (intermediate).
-- Development Tools: Skilled in Git, Git Bash (advanced), WordPress, Magento, and Linux-based environments. Intermediate knowledge of Three.js and Flutter. Experienced in collaborative coding projects using GitHub, GitLab, and Bitbucket for version control and documentation.
-- Cybersecurity: Implemented Wazuh (SIEM) and ClamAV for enhanced security; authored cybersecurity policies; currently driving ISO27001 certification efforts. Proficient with Kali Linux (expanding to penetration testing and vulnerability assessments from January). Pursuing Google Cybersecurity Certificate.
-- Project Development: Built dynamic websites with WordPress, HTML, CSS, and custom code. Utilised .yml scripting for automating deployment processes in website development. Currently working on a private Three.js project and developing a Flutter-based maths app hosted on GitHub.
-- Testing & QA: Manual testing in Agile and Waterfall environments; experience with Postman for API testing and MySQL Workbench for database validation.
-- System Management: Administered Windows servers and Linux environments. Skilled with network security tools such as Draytek and Bitdefender. Configured firewalls, VPNs, and LAN setups (limited experience of 6 months). Proficient in .yml scripting for system automation and configuration. Advanced in Google Workspace administration.
-- Networking: Experience with setting up VPNs, LAN/WAN configurations, and basic firewall management.
-- Continuous Learning: Completing SQL and machine learning courses. Currently studying Azure technologies and further developing expertise in cloud platforms. Actively pursuing the Google Cybersecurity Certificate to stay updated on industry advancements.
+- **Programming Languages**: Proficient in CSS, HTML, Python, PHP, and JavaScript. Currently learning C/C#, C++, and MySQL (intermediate).
+- **Development Tools**: Skilled in Git, Git Bash (advanced), WordPress, Magento, and Linux-based environments. Intermediate knowledge of Three.js and Flutter. Experienced in collaborative coding projects using GitHub, GitLab, and Bitbucket for version control and documentation.
+- **Cybersecurity**: Implemented Wazuh (SIEM) and ClamAV for enhanced security; authored cybersecurity policies; currently driving ISO27001 certification efforts. Proficient with Kali Linux (expanding to penetration testing and vulnerability assessments from January). Pursuing Google Cybersecurity Certificate.
+- **Project Development**: Built dynamic websites with WordPress, HTML, CSS, and custom code. Utilised .yml scripting for automating deployment processes in website development. Currently working on a private Three.js project and developing a Flutter-based maths app hosted on GitHub.
+- **Testing & QA**: Manual testing in Agile and Waterfall environments; experience with Postman for API testing and MySQL Workbench for database validation.
+- **System Management**: Administered Windows servers and Linux environments. Skilled with network security tools such as Draytek and Bitdefender. Configured firewalls, VPNs, and LAN setups (limited experience of 6 months). Proficient in .yml scripting for system automation and configuration. Advanced in Google Workspace administration.
+- **Networking**: Experience with setting up VPNs, LAN/WAN configurations, and basic firewall management.
+- **Continuous Learning**: Completing SQL and machine learning courses. Currently studying Azure technologies and further developing expertise in cloud platforms. Actively pursuing the Google Cybersecurity Certificate to stay updated on industry advancements.
 
 ## Websites
 
