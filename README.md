@@ -14,12 +14,12 @@ My experience includes streamlining development pipelines, enhancing system secu
 
 ## Websites
 
-- [Mafarlos](https://mafarlos.com/)
+- [Mafarlos](https://mafarlos.com/) [Currently in development]
 - [Health Academy Wordpress](https://healthacademyonline.co.uk/)
 - [KeefeCodes](https://www.keefecodes.com)
 - [Peated Wordpress](https://www.peated.co.uk)
-- [Aston Berkeley Wordpress](https://www.astonberkeley.com/) (NO LONGER WORKING ON BUT SET UP)
-- [BatchRecorder](https://batchrecorder.com/) (NO LONGER WORKING ON BUT SET UP)
+- [Aston Berkeley Wordpress](https://www.astonberkeley.com/) [NO LONGER WORKING ON BUT SET UP]
+- [BatchRecorder](https://batchrecorder.com/) [NO LONGER WORKING ON BUT SET UP]
 
 ## Experience
 ### IT Manager – Health Academy Online (January 2024 – Present)
@@ -50,3 +50,4 @@ My experience includes streamlining development pipelines, enhancing system secu
 - LinkedIn: [Jonathan Keefe](https://www.linkedin.com/in/jonathan-keefe-39022b175/)
 
 Thanks for stopping by and feel free to reach out to me with any questions or opportunities.
+
