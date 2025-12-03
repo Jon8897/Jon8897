@@ -1,53 +1,169 @@
-﻿## Introduction
-I am a driven and adaptable IT professional passionate about software development, DevOps, and cybersecurity. With a strong foundation in coding and scripting, I leverage my experience to create efficient, scalable, and secure solutions. Over the past 4 years, I have developed user-focused software applications, implemented security protocols using tools like Wazuh (SIEM) and ClamAV, and optimised workflows to drive innovation within organisations.
-My experience includes streamlining development pipelines, enhancing system security, and delivering impactful solutions that align with industry best practices. I thrive in dynamic environments where I can continue to grow my skills in software development, DevOps, scripting, and cybersecurity frameworks, while making meaningful contributions to innovative organisations. Passionate about solving real-world problems, I focus on leveraging technology to create secure, efficient, and user-friendly digital environments.
+# Introduction
 
-## Skills
-- **Programming Languages**: Proficient in CSS, HTML, Python, PHP, and JavaScript. Currently learning C/C#, C++, and MySQL (intermediate).
-- **Development Tools**: Skilled in Git, Git Bash (advanced), WordPress, Magento, and Linux-based environments. Intermediate knowledge of Three.js and Flutter. Experienced in collaborative coding projects using GitHub, GitLab, and Bitbucket for version control and documentation.
-- **Cybersecurity**: Implemented Wazuh (SIEM) and ClamAV for enhanced security; authored cybersecurity policies; currently driving ISO27001 certification efforts. Proficient with Kali Linux (expanding to penetration testing and vulnerability assessments from January). Pursuing Google Cybersecurity Certificate.
-- **Project Development**: Built dynamic websites with WordPress, HTML, CSS, and custom code. Utilised .yml scripting for automating deployment processes in website development. Currently working on a private Three.js project and developing a Flutter-based maths app hosted on GitHub.
-- **Testing & QA**: Manual testing in Agile and Waterfall environments; experience with Postman for API testing and MySQL Workbench for database validation.
-- **System Management**: Administered Windows servers and Linux environments. Skilled with network security tools such as Draytek and Bitdefender. Configured firewalls, VPNs, and LAN setups (limited experience of 6 months). Proficient in .yml scripting for system automation and configuration. Advanced in Google Workspace administration.
-- **Networking**: Experience with setting up VPNs, LAN/WAN configurations, and basic firewall management.
-- **Continuous Learning**: Completing SQL and machine learning courses. Currently studying Azure technologies and further developing expertise in cloud platforms. Actively pursuing the Google Cybersecurity Certificate to stay updated on industry advancements.
+I’m an adaptable IT professional with hands-on experience across software development, DevOps, automation, and cybersecurity. I enjoy building secure, stable systems and solving real problems with clean, practical solutions. Over the past four years, I’ve worked across full-stack development, infrastructure management, endpoint security, CI/CD pipelines, automation scripting, and technical support.
 
-## Websites
+My work ranges from building internal toolchains and deployment systems, to writing custom plugins and scripts, to implementing SIEM-based monitoring and security controls. I like taking complex environments and making them easier to maintain, safer to operate, and more predictable for the teams that rely on them.
 
-- [Mafarlos](https://mafarlos.com/) [Currently in development]
-- [Health Academy Wordpress](https://healthacademyonline.co.uk/)
-- [KeefeCodes](https://www.keefecodes.com)
-- [Peated Wordpress](https://www.peated.co.uk)
-- [Aston Berkeley Wordpress](https://www.astonberkeley.com/) [NO LONGER WORKING ON BUT SET UP]
-- [BatchRecorder](https://batchrecorder.com/) [NO LONGER WORKING ON BUT SET UP]
+I’m currently completing a Level 7 MSc in Cyber Security and preparing for OSCP, while continuing to expand my skills in automation, DevOps, secure development, and cloud technologies.
 
-## Experience
-### IT Manager – Health Academy Online (January 2024 – Present)
-- As IT Manager at Health Academy Online, I lead IT operations for the organisation, managing a team of eight staff members while ensuring the smooth running of hardware, software, and technical workflows. My work has focused on implementing and enforcing IT policies through tools such as **Wazuh (SIEM)** and **Google Workspace Admin**, ensuring optimal security and efficiency. I have developed comprehensive **cybersecurity policies**, including a **Data Protection Website Policy**, tailored to meet organisational needs and legal requirements. Additionally, I successfully guided the organisation through **Cyber Essentials certification**, with ongoing efforts to achieve **Cyber Essentials Plus** and eventually **ISO27001 certification**.
-- In my role, I actively monitor our WordPress websites to detect and mitigate cyber threats, ensuring system integrity and uptime. I have introduced custom coding improvements for website plugins and core files, enhancing functionality and security across our platforms. I have also implemented caching systems and a disaster recovery (DR) plan to reduce downtime and ensure business continuity. My responsibilities include setting up a development pipeline incorporating development, staging, and live environments to streamline updates and ensure quality control. These initiatives have strengthened the organisation’s cybersecurity infrastructure and enhanced the performance of its websites.
+---
 
-### Software Tester – ParcVu (July 2023 – December 2023)
-- As a Software Tester at ParcVu, I conducted manual testing using both **Agile** and **Waterfall methodologies**, ensuring system quality and functionality. I utilised tools such as **Postman** for API testing and **MySQL Workbench** for database validation, delivering accurate and actionable results. Working closely with developers and project managers, I identified and resolved critical issues while documenting bugs in the in-house tracking system (**The Beast**) with detailed and precise notes.
-- I was responsible for testing various platforms, including **ParcVu**, **Tempo**, and **Plot**, implementing localisation adjustments for European markets and ensuring compliance with regional requirements. My role included providing feedback on user interface (UI) improvements and performance enhancements, optimising system usability and functionality.
+# Skills
 
-### IT Technician and Developer – Aston Berkeley (January 2023 – July 2023)
-- During my time at Aston Berkeley, I provided IT support for system performance, security, and website development. My responsibilities included managing **Windows servers**, performing regular updates, and ensuring optimal performance and security. I played a key role in developing and maintaining websites using **WordPress**, incorporating custom coding to improve functionality and user experience.
-- In addition, I worked on network security by configuring and monitoring **Draytek systems**, as well as performing daily system checks using tools like **Shadow Control** and **Naverisk**. My role required a hands-on approach to troubleshooting and optimising IT systems for better performance and reliability.
+### **Programming Languages**
 
-### Junior Developer – Yoma (July 2021 – December 2022)
-- At Yoma, I developed and maintained **Magento** and **WordPress** e-commerce websites, focusing on backend configurations to ensure seamless functionality. I implemented frontend changes using **HTML** and **CSS**, creating responsive designs tailored to client needs.
-- I automated SKU searches using **Python**, enabling up-to-date product descriptions and reducing manual work. Additionally, I leveraged **Git** for version control and utilised **Linux commands** for server management, contributing to the stability and scalability of the company’s systems. My contributions significantly enhanced website performance and streamlined development processes.
+- HTML, CSS, JavaScript, TypeScript, Python, PHP
+- Learning: C, C#, C++
+- Intermediate MySQL knowledge
 
-## Personal Interests & Activities
-- Enjoy working on personal coding projects, such as building websites, and learning new coding languages including MySQL, Python, and Node.js.
-- Learning scripting with Powershell and Bash
-- Currently learning about machine learning with my Raspberry Pi 4, further expanding my knowledge and skills.
-- Challenge myself daily to improve my coding abilities and become a better developer.
-- Keep up to date with the latest technological advancements and industry news to stay informed about software trends and commonly used development languages.
+### **Development Tools**
 
-## Contact Information
-- Email: [jonathankeefe08@gmail.com](mailto:jonathankeefe08@gmail.com)
-- LinkedIn: [Jonathan Keefe](https://www.linkedin.com/in/jonathan-keefe-39022b175/)
+- Git, Git Bash
+- WordPress & Magento development
+- Linux environments
+- React, Vite, Tailwind, shadcn/ui
+- Familiar with Three.js and early-stage Flutter development
+- Experienced with GitHub / GitLab / Bitbucket workflows
 
-Thanks for stopping by and feel free to reach out to me with any questions or opportunities.
+### **Cybersecurity**
+
+- Implemented SIEM-based monitoring (Wazuh) and endpoint protection
+- Wrote internal cybersecurity policies and DR procedures
+- Cyber Essentials achieved twice; ISO 27001 readiness underway
+- Regular use of Kali Linux for labs and vulnerability testing
+- Pursuing Google Cybersecurity Certificate
+- Beginning structured penetration testing practice (OSCP prep)
+
+### **Project Development**
+
+- Built and maintained WordPress sites with custom plugins/themes
+- Developed automation using .yml and scripting
+- Building React-based tooling and internal dashboards
+- Created full-featured website + automation pipeline for a museum-grade installation (Ultimate Breath)
+- Developing a private Three.js project and Flutter app (math-based learning)
+
+### **Testing & QA**
+
+- Manual testing (Agile + Waterfall)
+- API testing with Postman
+- Database validation using MySQL Workbench
+- Bug reporting & structured test cases
+
+### **System Management**
+
+- Windows Servers & Linux systems
+- Google Workspace administration
+- VPN, firewall (Draytek), and LAN/WAN configuration
+- Backup scripting & monitoring
+- Limited but growing experience with cloud and Azure fundamentals
+
+### **Networking**
+
+- VPN setup, DNS, SSL, firewall basics
+- Internal network troubleshooting and support
+
+### **Continuous Learning**
+
+- Studying SQL, cloud fundamentals, machine learning basics
+- Expanding into secure coding, offensive security, and automation
+- Learning PowerShell, Bash, and strengthening Python automation
+
+---
+
+# Websites
+
+- **Mafarlos** – [https://mafarlos.com](https://mafarlos.com/) *(in development)*
+- **Health Academy** – [https://healthacademyonline.co.uk](https://healthacademyonline.co.uk/)
+- **KeefeCodes (Portfolio)** – [https://www.keefecodes.com](https://www.keefecodes.com/)
+- **Peated** – [https://www.peated.co.uk](https://www.peated.co.uk/)
+- **Aston Berkeley** – [https://www.astonberkeley.com](https://www.astonberkeley.com/) *(no longer supporting)*
+- **BatchRecorder** – [https://batchrecorder.com](https://batchrecorder.com/) *(no longer supporting)*
+
+---
+
+# Experience
+
+### **Creative Technology Programmer – Ultimate Breath (Weltmuseum Wien)**
+
+**April 2025 – May 2026**
+
+Responsible for developing the full technical system behind *Ultimate Breath*, a real-time, environmental-data-driven installation combining lighting, mechanical gamelan, and TouchDesigner visuals.
+
+Key achievements:
+
+- Built the complete Python control engine for sensor → lighting → mechanical behaviour
+- Developed custom Arduino firmware for AC dimmers and relay control
+- Created the public dashboard website: [https://theultimatebreath.com](https://theultimatebreath.com/)
+- Integrated TouchDesigner with Python for live visual automation
+- Designed watchdog processes for real-time issue detection and alerts
+- Implemented fully automated daily startup / shutdown routines
+- Ensured museum-grade stability through self-healing logic
+- Worked closely with the artist, AV designer, and mechanical engineer
+
+This project combined software engineering, automation, embedded systems, creative coding, and real-time data processing.
+
+---
+
+### **IT Manager – Health Academy Online (January 2024 – Present)**
+
+- Lead IT operations for a distributed team, managing systems, security, and automation
+- Implemented Wazuh (SIEM) and endpoint protection
+- Wrote cybersecurity policies and completed Cyber Essentials certification
+- Managing ISO 27001 readiness
+- Developed caching systems, DR plans, and automation scripts
+- Built a dev → stage → live pipeline for WordPress deployments
+- Improved plugin reliability and core performance with custom code
+- Administer Google Workspace, VPN, and access controls
+- Maintain uptime and monitor WordPress sites for threats and errors
+
+---
+
+### **Software Tester – ParcVu (July 2023 – December 2023)**
+
+- Manual + API testing across multiple platforms
+- Postman for API tests, MySQL Workbench for DB validation
+- Logged precise bugs in *The Beast*
+- Worked on localisation, UI/UX improvements, and GDPR compliance
+- Supported stability of ParcVu, Tempo, and Plot platforms
+
+---
+
+### **IT Technician & Developer – Aston Berkeley (January 2023 – July 2023)**
+
+- Managed Windows servers, updates, and patching
+- Worked on WordPress development and custom site features
+- Configured Draytek systems and monitored network security
+- Used Shadow Control and Naverisk for remote system management
+- Performed daily checks, troubleshooting, and optimisation
+
+---
+
+### **Junior Developer – Yoma (July 2021 – December 2022)**
+
+- Maintained Magento and WordPress e-commerce systems
+- Frontend: HTML, CSS, UI updates
+- Automated tasks using Python (SKU sync, data cleanup)
+- Worked with Git, Linux commands, and server tasks
+- Improved performance, load speeds, and workflow efficiency
+
+---
+
+# Personal Interests & Activities
+
+- Building web apps and automation tools
+- Learning new programming languages (C, SQL, Python, Node.js)
+- Machine learning experiments on Raspberry Pi
+- Practising penetration testing and OSCP-style labs
+- Daily coding challenges to improve logic & problem solving
+- Guitar, fitness, and keeping up with tech news
+
+---
+
+# Contact Information
+
+- **Email:** [jonathankeefe08@gmail.com](mailto:jonathankeefe08@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/jonathan-keefe-39022b175/
+
+Thanks for visiting, feel free to reach out for collaboration or opportunities.
+
 
